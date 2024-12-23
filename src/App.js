@@ -68,7 +68,7 @@ const App = () => {
         </div>
         </div>
         <div className='hr'></div> 
-        <h2>Events in {currentCity}</h2>
+        <h2>See Events in {currentCity}</h2>
         <EventList events={events} />
       </div>
   );
